@@ -35,7 +35,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'board.apps.BoardConfig'
+    'nba_stats.apps.NBAStatsConfig'
 ]
 
 MIDDLEWARE = [

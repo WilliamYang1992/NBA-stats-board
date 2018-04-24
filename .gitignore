@@ -104,5 +104,5 @@ ENV/
 .idea/
 
 # Django stuff
-db.sqlite3
-*_initial.py
+*.sqlite3
+migrations/
